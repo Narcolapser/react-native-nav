@@ -87,8 +87,8 @@ export default class NavBarAndroidLight extends Component {
             <NavButtonText>
               {"Button"}
             </NavButtonText>
-          </NavButton onPress={() => alert('hi')}>
-          <NavButton>
+          </NavButton>
+          <NavButton onPress={() => alert('hi')}>
             <NavButtonText>
               {"Button"}
             </NavButtonText>
